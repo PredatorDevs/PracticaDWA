@@ -1,1 +1,1 @@
-![My SS](blob\ss.png?raw=true "SS")
+![My SS](./blob/ss.png "SS")
